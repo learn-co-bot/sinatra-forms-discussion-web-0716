@@ -1,4 +1,4 @@
-# Week 4, Day 4 Discussion Questions
+# Sinatra Forms Discussion Questions
 
 Take 30 minutes to discuss the following questions with your table group. 
 
